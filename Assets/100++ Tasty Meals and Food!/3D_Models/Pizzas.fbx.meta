@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 8d18843aefc7c1640b19bc3604f26f1e
+timeCreated: 1443812509
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Salatini:pCube1
+    100004: Salatini:pSphere10
+    100006: Salatini:pSphere22
+    100008: Salatini:pSphere23
+    100010: Salatini:pSphere24
+    100012: Salatini:pSphere25
+    100014: Salatini:pSphere26
+    100016: Salatini:pSphere27
+    100018: Salatini:pSphere28
+    100020: Salatini:pSphere29
+    100022: Salatini:pSphere3
+    100024: Salatini:pSphere30
+    100026: Salatini:pSphere31
+    100028: Salatini:pSphere36
+    100030: Salatini:pSphere37
+    100032: Salatini:pSphere38
+    100034: Salatini:pSphere4
+    100036: Salatini:pSphere5
+    100038: Salatini:pSphere6
+    100040: Salatini:pSphere7
+    100042: Salatini:pSphere8
+    100044: Salatini:pSphere9
+    400000: //RootNode
+    400002: Salatini:pCube1
+    400004: Salatini:pSphere10
+    400006: Salatini:pSphere22
+    400008: Salatini:pSphere23
+    400010: Salatini:pSphere24
+    400012: Salatini:pSphere25
+    400014: Salatini:pSphere26
+    400016: Salatini:pSphere27
+    400018: Salatini:pSphere28
+    400020: Salatini:pSphere29
+    400022: Salatini:pSphere3
+    400024: Salatini:pSphere30
+    400026: Salatini:pSphere31
+    400028: Salatini:pSphere36
+    400030: Salatini:pSphere37
+    400032: Salatini:pSphere38
+    400034: Salatini:pSphere4
+    400036: Salatini:pSphere5
+    400038: Salatini:pSphere6
+    400040: Salatini:pSphere7
+    400042: Salatini:pSphere8
+    400044: Salatini:pSphere9
+    2300000: Salatini:pCube1
+    2300002: Salatini:pSphere10
+    2300004: Salatini:pSphere22
+    2300006: Salatini:pSphere23
+    2300008: Salatini:pSphere24
+    2300010: Salatini:pSphere25
+    2300012: Salatini:pSphere26
+    2300014: Salatini:pSphere27
+    2300016: Salatini:pSphere28
+    2300018: Salatini:pSphere29
+    2300020: Salatini:pSphere3
+    2300022: Salatini:pSphere30
+    2300024: Salatini:pSphere31
+    2300026: Salatini:pSphere36
+    2300028: Salatini:pSphere37
+    2300030: Salatini:pSphere38
+    2300032: Salatini:pSphere4
+    2300034: Salatini:pSphere5
+    2300036: Salatini:pSphere6
+    2300038: Salatini:pSphere7
+    2300040: Salatini:pSphere8
+    2300042: Salatini:pSphere9
+    3300000: Salatini:pCube1
+    3300002: Salatini:pSphere10
+    3300004: Salatini:pSphere22
+    3300006: Salatini:pSphere23
+    3300008: Salatini:pSphere24
+    3300010: Salatini:pSphere25
+    3300012: Salatini:pSphere26
+    3300014: Salatini:pSphere27
+    3300016: Salatini:pSphere28
+    3300018: Salatini:pSphere29
+    3300020: Salatini:pSphere3
+    3300022: Salatini:pSphere30
+    3300024: Salatini:pSphere31
+    3300026: Salatini:pSphere36
+    3300028: Salatini:pSphere37
+    3300030: Salatini:pSphere38
+    3300032: Salatini:pSphere4
+    3300034: Salatini:pSphere5
+    3300036: Salatini:pSphere6
+    3300038: Salatini:pSphere7
+    3300040: Salatini:pSphere8
+    3300042: Salatini:pSphere9
+    4300000: Salatini:pSphere3
+    4300002: Salatini:pSphere4
+    4300004: Salatini:pSphere5
+    4300006: Salatini:pSphere6
+    4300008: Salatini:pSphere7
+    4300010: Salatini:pSphere8
+    4300012: Salatini:pSphere9
+    4300014: Salatini:pSphere10
+    4300016: Salatini:pCube1
+    4300018: Salatini:pSphere22
+    4300020: Salatini:pSphere23
+    4300022: Salatini:pSphere24
+    4300024: Salatini:pSphere25
+    4300026: Salatini:pSphere26
+    4300028: Salatini:pSphere27
+    4300030: Salatini:pSphere28
+    4300032: Salatini:pSphere29
+    4300034: Salatini:pSphere30
+    4300036: Salatini:pSphere31
+    4300038: Salatini:pSphere36
+    4300040: Salatini:pSphere37
+    4300042: Salatini:pSphere38
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

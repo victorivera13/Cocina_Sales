@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.cocina_sales.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Personal\\Documentos\\Unity_Proyectos\\VR\\Cocina_Sales\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Cocina_Sales [Testing]"
+        }
+      }
+    }
+  ]
+}

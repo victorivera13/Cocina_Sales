@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 30ca717de7fcdf545aa47e88a45592d6
+timeCreated: 1443597459
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Shrimps10
+    100004: Shrimps11
+    100006: Shrimps12
+    100008: Shrimps13
+    100010: Shrimps14
+    100012: Shrimps15
+    100014: Shrimps16
+    100016: Shrimps17
+    100018: Shrimps3
+    100020: Shrimps4
+    100022: Shrimps5
+    100024: Shrimps6
+    100026: Shrimps7
+    100028: Shrimps8
+    100030: Shrimps9
+    400000: //RootNode
+    400002: Shrimps10
+    400004: Shrimps11
+    400006: Shrimps12
+    400008: Shrimps13
+    400010: Shrimps14
+    400012: Shrimps15
+    400014: Shrimps16
+    400016: Shrimps17
+    400018: Shrimps3
+    400020: Shrimps4
+    400022: Shrimps5
+    400024: Shrimps6
+    400026: Shrimps7
+    400028: Shrimps8
+    400030: Shrimps9
+    2300000: //RootNode
+    2300002: Shrimps10
+    2300004: Shrimps11
+    2300006: Shrimps12
+    2300008: Shrimps13
+    2300010: Shrimps14
+    2300012: Shrimps15
+    2300014: Shrimps16
+    2300016: Shrimps17
+    2300018: Shrimps3
+    2300020: Shrimps4
+    2300022: Shrimps5
+    2300024: Shrimps6
+    2300026: Shrimps7
+    2300028: Shrimps8
+    2300030: Shrimps9
+    3300000: //RootNode
+    3300002: Shrimps10
+    3300004: Shrimps11
+    3300006: Shrimps12
+    3300008: Shrimps13
+    3300010: Shrimps14
+    3300012: Shrimps15
+    3300014: Shrimps16
+    3300016: Shrimps17
+    3300018: Shrimps3
+    3300020: Shrimps4
+    3300022: Shrimps5
+    3300024: Shrimps6
+    3300026: Shrimps7
+    3300028: Shrimps8
+    3300030: Shrimps9
+    4300000: Gamberi:polySurface1
+    4300002: Shrimps3
+    4300004: Shrimps4
+    4300006: Shrimps5
+    4300008: Shrimps6
+    4300010: Shrimps7
+    4300012: Shrimps8
+    4300014: Shrimps9
+    4300016: Shrimps10
+    4300018: Shrimps11
+    4300020: Shrimps12
+    4300022: Shrimps13
+    4300024: Shrimps14
+    4300026: Shrimps15
+    4300028: Shrimps16
+    4300030: Shrimps17
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

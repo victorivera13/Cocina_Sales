@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 9728086c5d9e87b48b6da039cc042daa
+timeCreated: 1443812829
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Steak:pCube1
+    100004: Steak:pCylinder1
+    100006: Steak:pSphere1
+    100008: Steak:pSphere2
+    100010: Steak:pSphere3
+    100012: Steak:pSphere4
+    100014: Steak:pSphere5
+    100016: Steak:pSphere6
+    100018: Steak:pSphere7
+    100020: Steak:pSphere8
+    100022: Steak:pSphere9
+    100024: Steak10
+    100026: Steak11
+    100028: Steak12
+    100030: Steak13
+    100032: Steak14
+    100034: Steak4
+    100036: Steak5
+    100038: Steak6
+    100040: Steak7
+    100042: Steak8
+    100044: Steak9
+    400000: //RootNode
+    400002: Steak:pCube1
+    400004: Steak:pCylinder1
+    400006: Steak:pSphere1
+    400008: Steak:pSphere2
+    400010: Steak:pSphere3
+    400012: Steak:pSphere4
+    400014: Steak:pSphere5
+    400016: Steak:pSphere6
+    400018: Steak:pSphere7
+    400020: Steak:pSphere8
+    400022: Steak:pSphere9
+    400024: Steak10
+    400026: Steak11
+    400028: Steak12
+    400030: Steak13
+    400032: Steak14
+    400034: Steak4
+    400036: Steak5
+    400038: Steak6
+    400040: Steak7
+    400042: Steak8
+    400044: Steak9
+    2300000: Steak:pCube1
+    2300002: Steak:pCylinder1
+    2300004: Steak:pSphere1
+    2300006: Steak:pSphere2
+    2300008: Steak:pSphere3
+    2300010: Steak:pSphere4
+    2300012: Steak:pSphere5
+    2300014: Steak:pSphere6
+    2300016: Steak:pSphere7
+    2300018: Steak:pSphere8
+    2300020: Steak:pSphere9
+    2300022: Steak10
+    2300024: Steak11
+    2300026: Steak12
+    2300028: Steak13
+    2300030: Steak14
+    2300032: Steak4
+    2300034: Steak5
+    2300036: Steak6
+    2300038: Steak7
+    2300040: Steak8
+    2300042: Steak9
+    3300000: Steak:pCube1
+    3300002: Steak:pCylinder1
+    3300004: Steak:pSphere1
+    3300006: Steak:pSphere2
+    3300008: Steak:pSphere3
+    3300010: Steak:pSphere4
+    3300012: Steak:pSphere5
+    3300014: Steak:pSphere6
+    3300016: Steak:pSphere7
+    3300018: Steak:pSphere8
+    3300020: Steak:pSphere9
+    3300022: Steak10
+    3300024: Steak11
+    3300026: Steak12
+    3300028: Steak13
+    3300030: Steak14
+    3300032: Steak4
+    3300034: Steak5
+    3300036: Steak6
+    3300038: Steak7
+    3300040: Steak8
+    3300042: Steak9
+    4300000: Steak:pCube1
+    4300002: Steak:pSphere1
+    4300004: Steak:pSphere2
+    4300006: Steak:pSphere3
+    4300008: Steak:pSphere4
+    4300010: Steak:pSphere5
+    4300012: Steak:pSphere6
+    4300014: Steak:pSphere7
+    4300016: Steak:pSphere8
+    4300018: Steak:pSphere9
+    4300020: Steak:pCylinder1
+    4300022: Steak4
+    4300024: Steak5
+    4300026: Steak6
+    4300028: Steak7
+    4300030: Steak8
+    4300032: Steak9
+    4300034: Steak10
+    4300036: Steak11
+    4300038: Steak12
+    4300040: Steak13
+    4300042: Steak14
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

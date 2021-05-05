@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 146a9bb421f771f4aac49416ffb88cb8
+timeCreated: 1443812656
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Shin1:Bistecca_pCylinder1
+    100004: Shin1:pCube1
+    100006: Shin1:pCylinder1
+    100008: Shin1:pSphere10
+    100010: Shin1:pSphere11
+    100012: Shin1:pSphere12
+    100014: Shin1:pSphere13
+    100016: Shin1:pSphere14
+    100018: Shin1:pSphere15
+    100020: Shin1:pSphere16
+    100022: Shin1:pSphere17
+    100024: Shin1:pSphere18
+    100026: Shin1:pSphere19
+    100028: Shin1:pSphere20
+    100030: Shin1:pSphere21
+    100032: Shin1:pSphere22
+    100034: Shin1:pSphere23
+    100036: Shin1:pSphere24
+    100038: Shin1:pSphere25
+    100040: Shin1:pSphere26
+    100042: Shin1:pSphere27
+    100044: Shin1:pSphere28
+    100046: Shin1:pSphere29
+    100048: Shin1:pSphere7
+    100050: Shin1:pSphere8
+    100052: Shin1:pSphere9
+    400000: //RootNode
+    400002: Shin1:Bistecca_pCylinder1
+    400004: Shin1:pCube1
+    400006: Shin1:pCylinder1
+    400008: Shin1:pSphere10
+    400010: Shin1:pSphere11
+    400012: Shin1:pSphere12
+    400014: Shin1:pSphere13
+    400016: Shin1:pSphere14
+    400018: Shin1:pSphere15
+    400020: Shin1:pSphere16
+    400022: Shin1:pSphere17
+    400024: Shin1:pSphere18
+    400026: Shin1:pSphere19
+    400028: Shin1:pSphere20
+    400030: Shin1:pSphere21
+    400032: Shin1:pSphere22
+    400034: Shin1:pSphere23
+    400036: Shin1:pSphere24
+    400038: Shin1:pSphere25
+    400040: Shin1:pSphere26
+    400042: Shin1:pSphere27
+    400044: Shin1:pSphere28
+    400046: Shin1:pSphere29
+    400048: Shin1:pSphere7
+    400050: Shin1:pSphere8
+    400052: Shin1:pSphere9
+    2300000: Shin1:Bistecca_pCylinder1
+    2300002: Shin1:pCube1
+    2300004: Shin1:pCylinder1
+    2300006: Shin1:pSphere10
+    2300008: Shin1:pSphere11
+    2300010: Shin1:pSphere12
+    2300012: Shin1:pSphere13
+    2300014: Shin1:pSphere14
+    2300016: Shin1:pSphere15
+    2300018: Shin1:pSphere16
+    2300020: Shin1:pSphere17
+    2300022: Shin1:pSphere18
+    2300024: Shin1:pSphere19
+    2300026: Shin1:pSphere20
+    2300028: Shin1:pSphere21
+    2300030: Shin1:pSphere22
+    2300032: Shin1:pSphere23
+    2300034: Shin1:pSphere24
+    2300036: Shin1:pSphere25
+    2300038: Shin1:pSphere26
+    2300040: Shin1:pSphere27
+    2300042: Shin1:pSphere28
+    2300044: Shin1:pSphere29
+    2300046: Shin1:pSphere7
+    2300048: Shin1:pSphere8
+    2300050: Shin1:pSphere9
+    3300000: Shin1:Bistecca_pCylinder1
+    3300002: Shin1:pCube1
+    3300004: Shin1:pCylinder1
+    3300006: Shin1:pSphere10
+    3300008: Shin1:pSphere11
+    3300010: Shin1:pSphere12
+    3300012: Shin1:pSphere13
+    3300014: Shin1:pSphere14
+    3300016: Shin1:pSphere15
+    3300018: Shin1:pSphere16
+    3300020: Shin1:pSphere17
+    3300022: Shin1:pSphere18
+    3300024: Shin1:pSphere19
+    3300026: Shin1:pSphere20
+    3300028: Shin1:pSphere21
+    3300030: Shin1:pSphere22
+    3300032: Shin1:pSphere23
+    3300034: Shin1:pSphere24
+    3300036: Shin1:pSphere25
+    3300038: Shin1:pSphere26
+    3300040: Shin1:pSphere27
+    3300042: Shin1:pSphere28
+    3300044: Shin1:pSphere29
+    3300046: Shin1:pSphere7
+    3300048: Shin1:pSphere8
+    3300050: Shin1:pSphere9
+    4300000: Shin1:pCube1
+    4300002: Shin1:pCylinder1
+    4300004: Shin1:Bistecca_pCylinder1
+    4300006: Shin1:pSphere7
+    4300008: Shin1:pSphere8
+    4300010: Shin1:pSphere9
+    4300012: Shin1:pSphere10
+    4300014: Shin1:pSphere11
+    4300016: Shin1:pSphere12
+    4300018: Shin1:pSphere13
+    4300020: Shin1:pSphere14
+    4300022: Shin1:pSphere15
+    4300024: Shin1:pSphere16
+    4300026: Shin1:pSphere17
+    4300028: Shin1:pSphere18
+    4300030: Shin1:pSphere19
+    4300032: Shin1:pSphere20
+    4300034: Shin1:pSphere21
+    4300036: Shin1:pSphere22
+    4300038: Shin1:pSphere23
+    4300040: Shin1:pSphere24
+    4300042: Shin1:pSphere25
+    4300044: Shin1:pSphere26
+    4300046: Shin1:pSphere27
+    4300048: Shin1:pSphere28
+    4300050: Shin1:pSphere29
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

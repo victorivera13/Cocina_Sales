@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 3ebda6d70f0f65842ba6145505646ff1
+timeCreated: 1443813329
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Tortilla:pCube1
+    100004: Tortilla:pCube10
+    100006: Tortilla:pCube11
+    100008: Tortilla:pCube12
+    100010: Tortilla:pCube13
+    100012: Tortilla:pCube14
+    100014: Tortilla:pCube15
+    100016: Tortilla:pCube16
+    100018: Tortilla:pCube17
+    100020: Tortilla:pCube18
+    100022: Tortilla:pCube19
+    100024: Tortilla:pCube2
+    100026: Tortilla:pCube20
+    100028: Tortilla:pCube21
+    100030: Tortilla:pCube22
+    100032: Tortilla:pCube23
+    100034: Tortilla:pCube24
+    100036: Tortilla:pCube25
+    100038: Tortilla:pCube26
+    100040: Tortilla:pCube27
+    100042: Tortilla:pCube3
+    100044: Tortilla:pCube4
+    100046: Tortilla:pCube5
+    100048: Tortilla:pCube6
+    100050: Tortilla:pCube7
+    100052: Tortilla:pCube8
+    100054: Tortilla:pCube9
+    100056: Tortilla:pSphere1
+    400000: //RootNode
+    400002: Tortilla:pCube1
+    400004: Tortilla:pCube10
+    400006: Tortilla:pCube11
+    400008: Tortilla:pCube12
+    400010: Tortilla:pCube13
+    400012: Tortilla:pCube14
+    400014: Tortilla:pCube15
+    400016: Tortilla:pCube16
+    400018: Tortilla:pCube17
+    400020: Tortilla:pCube18
+    400022: Tortilla:pCube19
+    400024: Tortilla:pCube2
+    400026: Tortilla:pCube20
+    400028: Tortilla:pCube21
+    400030: Tortilla:pCube22
+    400032: Tortilla:pCube23
+    400034: Tortilla:pCube24
+    400036: Tortilla:pCube25
+    400038: Tortilla:pCube26
+    400040: Tortilla:pCube27
+    400042: Tortilla:pCube3
+    400044: Tortilla:pCube4
+    400046: Tortilla:pCube5
+    400048: Tortilla:pCube6
+    400050: Tortilla:pCube7
+    400052: Tortilla:pCube8
+    400054: Tortilla:pCube9
+    400056: Tortilla:pSphere1
+    2300000: Tortilla:pCube1
+    2300002: Tortilla:pCube10
+    2300004: Tortilla:pCube11
+    2300006: Tortilla:pCube12
+    2300008: Tortilla:pCube13
+    2300010: Tortilla:pCube14
+    2300012: Tortilla:pCube15
+    2300014: Tortilla:pCube16
+    2300016: Tortilla:pCube17
+    2300018: Tortilla:pCube18
+    2300020: Tortilla:pCube19
+    2300022: Tortilla:pCube2
+    2300024: Tortilla:pCube20
+    2300026: Tortilla:pCube21
+    2300028: Tortilla:pCube22
+    2300030: Tortilla:pCube23
+    2300032: Tortilla:pCube24
+    2300034: Tortilla:pCube25
+    2300036: Tortilla:pCube26
+    2300038: Tortilla:pCube27
+    2300040: Tortilla:pCube3
+    2300042: Tortilla:pCube4
+    2300044: Tortilla:pCube5
+    2300046: Tortilla:pCube6
+    2300048: Tortilla:pCube7
+    2300050: Tortilla:pCube8
+    2300052: Tortilla:pCube9
+    2300054: Tortilla:pSphere1
+    3300000: Tortilla:pCube1
+    3300002: Tortilla:pCube10
+    3300004: Tortilla:pCube11
+    3300006: Tortilla:pCube12
+    3300008: Tortilla:pCube13
+    3300010: Tortilla:pCube14
+    3300012: Tortilla:pCube15
+    3300014: Tortilla:pCube16
+    3300016: Tortilla:pCube17
+    3300018: Tortilla:pCube18
+    3300020: Tortilla:pCube19
+    3300022: Tortilla:pCube2
+    3300024: Tortilla:pCube20
+    3300026: Tortilla:pCube21
+    3300028: Tortilla:pCube22
+    3300030: Tortilla:pCube23
+    3300032: Tortilla:pCube24
+    3300034: Tortilla:pCube25
+    3300036: Tortilla:pCube26
+    3300038: Tortilla:pCube27
+    3300040: Tortilla:pCube3
+    3300042: Tortilla:pCube4
+    3300044: Tortilla:pCube5
+    3300046: Tortilla:pCube6
+    3300048: Tortilla:pCube7
+    3300050: Tortilla:pCube8
+    3300052: Tortilla:pCube9
+    3300054: Tortilla:pSphere1
+    4300000: Tortilla:pCube1
+    4300002: Tortilla:pCube2
+    4300004: Tortilla:pCube3
+    4300006: Tortilla:pCube4
+    4300008: Tortilla:pCube5
+    4300010: Tortilla:pSphere1
+    4300012: Tortilla:pCube6
+    4300014: Tortilla:pCube7
+    4300016: Tortilla:pCube8
+    4300018: Tortilla:pCube9
+    4300020: Tortilla:pCube10
+    4300022: Tortilla:pCube11
+    4300024: Tortilla:pCube12
+    4300026: Tortilla:pCube13
+    4300028: Tortilla:pCube14
+    4300030: Tortilla:pCube15
+    4300032: Tortilla:pCube16
+    4300034: Tortilla:pCube17
+    4300036: Tortilla:pCube18
+    4300038: Tortilla:pCube19
+    4300040: Tortilla:pCube20
+    4300042: Tortilla:pCube21
+    4300044: Tortilla:pCube22
+    4300046: Tortilla:pCube23
+    4300048: Tortilla:pCube24
+    4300050: Tortilla:pCube25
+    4300052: Tortilla:pCube26
+    4300054: Tortilla:pCube27
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

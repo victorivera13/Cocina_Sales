@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 788117c68eb176d4482f1f3bca19abfb
+timeCreated: 1524581459
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bathroom5
+    100004: bedroom4
+    100006: bedroom5
+    100008: interior-hallway4
+    100010: living-room4
+    100012: storage-space
+    100014: storage-space.001
+    400000: //RootNode
+    400002: bathroom5
+    400004: bedroom4
+    400006: bedroom5
+    400008: interior-hallway4
+    400010: living-room4
+    400012: storage-space
+    400014: storage-space.001
+    2100000: storage-space
+    2100002: bedroom4
+    2100004: bedroom5
+    2100006: living-room4
+    2100008: bathroom5
+    2100010: interior-hallway4
+    2300000: bathroom5
+    2300002: bedroom4
+    2300004: bedroom5
+    2300006: interior-hallway4
+    2300008: living-room4
+    2300010: storage-space
+    2300012: storage-space.001
+    3300000: bathroom5
+    3300002: bedroom4
+    3300004: bedroom5
+    3300006: interior-hallway4
+    3300008: living-room4
+    3300010: storage-space
+    3300012: storage-space.001
+    4300000: storage-space.001
+    4300002: storage-space
+    4300004: bedroom4
+    4300006: bedroom5
+    4300008: living-room4
+    4300010: bathroom5
+    4300012: interior-hallway4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bathroom5
+    second: {fileID: 2100000, guid: 1a5c5c5950a888445b54b5005876e217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bedroom4
+    second: {fileID: 2100000, guid: 02dc9f21078649642b772ef70f2d215f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bedroom5
+    second: {fileID: 2100000, guid: 416cb9dbdfd44dc4bbcf1f7bb939b633, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior-hallway4
+    second: {fileID: 2100000, guid: b7b9e965f7379d84daa4a42ed7fef110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: living-room4
+    second: {fileID: 2100000, guid: fab7af08a55309146853b711feae0386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: storage-space
+    second: {fileID: 2100000, guid: c4b945204fc8ae349b269fd0749cd167, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

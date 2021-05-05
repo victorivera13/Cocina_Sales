@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: c01d87db0760a5f4ab5c3d0fa7666855
+timeCreated: 1443521547
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cherry10
+    100004: Cherry12
+    100006: Cherry15
+    100008: Cherry17
+    100010: Cherry18
+    100012: Cherry19
+    100014: Cherry20
+    100016: Cherry21
+    100018: Cherry22
+    100020: Cherry23
+    100022: Cherry24
+    100024: Cherry26
+    100026: Cherry27
+    100028: Cherry4
+    100030: Cherry6
+    100032: Cherry28
+    100034: Cherry29
+    400000: //RootNode
+    400002: Cherry10
+    400004: Cherry12
+    400006: Cherry15
+    400008: Cherry17
+    400010: Cherry18
+    400012: Cherry19
+    400014: Cherry20
+    400016: Cherry21
+    400018: Cherry22
+    400020: Cherry23
+    400022: Cherry24
+    400024: Cherry26
+    400026: Cherry27
+    400028: Cherry4
+    400030: Cherry6
+    400032: Cherry28
+    400034: Cherry29
+    2300000: Cherry10
+    2300002: Cherry12
+    2300004: Cherry15
+    2300006: Cherry17
+    2300008: Cherry18
+    2300010: Cherry19
+    2300012: Cherry20
+    2300014: Cherry21
+    2300016: Cherry22
+    2300018: Cherry23
+    2300020: Cherry24
+    2300022: Cherry26
+    2300024: Cherry27
+    2300026: Cherry4
+    2300028: Cherry6
+    2300030: Cherry28
+    2300032: Cherry29
+    3300000: Cherry10
+    3300002: Cherry12
+    3300004: Cherry15
+    3300006: Cherry17
+    3300008: Cherry18
+    3300010: Cherry19
+    3300012: Cherry20
+    3300014: Cherry21
+    3300016: Cherry22
+    3300018: Cherry23
+    3300020: Cherry24
+    3300022: Cherry26
+    3300024: Cherry27
+    3300026: Cherry4
+    3300028: Cherry6
+    3300030: Cherry28
+    3300032: Cherry29
+    4300000: Cherry4
+    4300002: Cherry17
+    4300004: Cherry18
+    4300006: Cherry19
+    4300008: Cherry20
+    4300010: Cherry21
+    4300012: Cherry22
+    4300014: Cherry23
+    4300016: Cherry24
+    4300018: Cherry12
+    4300020: Cherry26
+    4300022: Cherry27
+    4300024: Cherry10
+    4300026: Cherry15
+    4300028: Cherry6
+    4300030: Cherry28
+    4300032: Cherry29
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

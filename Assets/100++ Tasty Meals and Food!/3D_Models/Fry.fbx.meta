@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 6b7c74e5ca180e84089cdb1298ca8c4c
+timeCreated: 1443805184
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fry10
+    100004: Fry11
+    100006: Fry12
+    100008: Fry13
+    100010: Fry14
+    100012: Fry15
+    100014: Fry16
+    100016: Fry17
+    100018: Fry18
+    100020: Fry19
+    100022: Fry20
+    100024: Fry21
+    100026: Fry22
+    100028: Fry23
+    100030: Fry24
+    100032: Fry25
+    100034: Fry26
+    100036: Fry27
+    100038: Fry28
+    100040: Fry29
+    100042: Fry3
+    100044: Fry30
+    100046: Fry4
+    100048: Fry5
+    100050: Fry6
+    100052: Fry7
+    100054: Fry8
+    100056: Fry9
+    400000: //RootNode
+    400002: Fry10
+    400004: Fry11
+    400006: Fry12
+    400008: Fry13
+    400010: Fry14
+    400012: Fry15
+    400014: Fry16
+    400016: Fry17
+    400018: Fry18
+    400020: Fry19
+    400022: Fry20
+    400024: Fry21
+    400026: Fry22
+    400028: Fry23
+    400030: Fry24
+    400032: Fry25
+    400034: Fry26
+    400036: Fry27
+    400038: Fry28
+    400040: Fry29
+    400042: Fry3
+    400044: Fry30
+    400046: Fry4
+    400048: Fry5
+    400050: Fry6
+    400052: Fry7
+    400054: Fry8
+    400056: Fry9
+    2300000: Fry10
+    2300002: Fry11
+    2300004: Fry12
+    2300006: Fry13
+    2300008: Fry14
+    2300010: Fry15
+    2300012: Fry16
+    2300014: Fry17
+    2300016: Fry18
+    2300018: Fry19
+    2300020: Fry20
+    2300022: Fry21
+    2300024: Fry22
+    2300026: Fry23
+    2300028: Fry24
+    2300030: Fry25
+    2300032: Fry26
+    2300034: Fry27
+    2300036: Fry28
+    2300038: Fry29
+    2300040: Fry3
+    2300042: Fry30
+    2300044: Fry4
+    2300046: Fry5
+    2300048: Fry6
+    2300050: Fry7
+    2300052: Fry8
+    2300054: Fry9
+    3300000: Fry10
+    3300002: Fry11
+    3300004: Fry12
+    3300006: Fry13
+    3300008: Fry14
+    3300010: Fry15
+    3300012: Fry16
+    3300014: Fry17
+    3300016: Fry18
+    3300018: Fry19
+    3300020: Fry20
+    3300022: Fry21
+    3300024: Fry22
+    3300026: Fry23
+    3300028: Fry24
+    3300030: Fry25
+    3300032: Fry26
+    3300034: Fry27
+    3300036: Fry28
+    3300038: Fry29
+    3300040: Fry3
+    3300042: Fry30
+    3300044: Fry4
+    3300046: Fry5
+    3300048: Fry6
+    3300050: Fry7
+    3300052: Fry8
+    3300054: Fry9
+    4300000: Fry3
+    4300002: Fry4
+    4300004: Fry5
+    4300006: Fry6
+    4300008: Fry7
+    4300010: Fry8
+    4300012: Fry9
+    4300014: Fry10
+    4300016: Fry11
+    4300018: Fry12
+    4300020: Fry13
+    4300022: Fry14
+    4300024: Fry15
+    4300026: Fry16
+    4300028: Fry17
+    4300030: Fry18
+    4300032: Fry19
+    4300034: Fry20
+    4300036: Fry21
+    4300038: Fry22
+    4300040: Fry23
+    4300042: Fry24
+    4300044: Fry25
+    4300046: Fry26
+    4300048: Fry27
+    4300050: Fry28
+    4300052: Fry29
+    4300054: Fry30
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 37de6a39fa5d4bf41858c2cdb0c37f61
+timeCreated: 1520972937
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: kitchen-unit1
+    100002: kitchen-unit1-door1
+    100004: kitchen-unit1-door2
+    100006: kitchen-unit1-door3
+    100008: kitchen-unit1-door4
+    100010: kitchen-unit1-tiles
+    100012: kitchen-unit1-top
+    100014: //RootNode
+    400000: kitchen-unit1
+    400002: kitchen-unit1-door1
+    400004: kitchen-unit1-door2
+    400006: kitchen-unit1-door3
+    400008: kitchen-unit1-door4
+    400010: kitchen-unit1-tiles
+    400012: kitchen-unit1-top
+    400014: //RootNode
+    2100000: kitchen-unit1
+    2300000: kitchen-unit1
+    2300002: kitchen-unit1-door1
+    2300004: kitchen-unit1-door2
+    2300006: kitchen-unit1-door3
+    2300008: kitchen-unit1-door4
+    2300010: kitchen-unit1-tiles
+    2300012: kitchen-unit1-top
+    3300000: kitchen-unit1
+    3300002: kitchen-unit1-door1
+    3300004: kitchen-unit1-door2
+    3300006: kitchen-unit1-door3
+    3300008: kitchen-unit1-door4
+    3300010: kitchen-unit1-tiles
+    3300012: kitchen-unit1-top
+    4300000: kitchen-unit1-top
+    4300002: kitchen-unit1-tiles
+    4300004: kitchen-unit1-door4
+    4300006: kitchen-unit1-door3
+    4300008: kitchen-unit1-door2
+    4300010: kitchen-unit1-door1
+    4300012: kitchen-unit1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kitchen-unit1
+    second: {fileID: 2100000, guid: d689a7487b6c7314fab47a68986f1212, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

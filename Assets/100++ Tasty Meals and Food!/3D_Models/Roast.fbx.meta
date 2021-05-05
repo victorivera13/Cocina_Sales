@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: e2764c1d2eaba6548bcee04ab5ff153c
+timeCreated: 1443812064
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Roast:pCylinder1
+    100004: Roast:pCylinder2
+    100006: Roast:pCylinder3
+    100008: Roast:pCylinder4
+    100010: Roast:pSphere1
+    100012: Roast:pSphere10
+    100014: Roast:pSphere11
+    100016: Roast:pSphere12
+    100018: Roast:pSphere13
+    100020: Roast:pSphere14
+    100022: Roast:pSphere15
+    100024: Roast:pSphere16
+    100026: Roast:pSphere17
+    100028: Roast:pSphere18
+    100030: Roast:pSphere19
+    100032: Roast:pSphere2
+    100034: Roast:pSphere3
+    100036: Roast:pSphere4
+    100038: Roast:pSphere6
+    100040: Roast:pSphere7
+    100042: Roast:pSphere8
+    100044: Roast:pSphere9
+    400000: //RootNode
+    400002: Roast:pCylinder1
+    400004: Roast:pCylinder2
+    400006: Roast:pCylinder3
+    400008: Roast:pCylinder4
+    400010: Roast:pSphere1
+    400012: Roast:pSphere10
+    400014: Roast:pSphere11
+    400016: Roast:pSphere12
+    400018: Roast:pSphere13
+    400020: Roast:pSphere14
+    400022: Roast:pSphere15
+    400024: Roast:pSphere16
+    400026: Roast:pSphere17
+    400028: Roast:pSphere18
+    400030: Roast:pSphere19
+    400032: Roast:pSphere2
+    400034: Roast:pSphere3
+    400036: Roast:pSphere4
+    400038: Roast:pSphere6
+    400040: Roast:pSphere7
+    400042: Roast:pSphere8
+    400044: Roast:pSphere9
+    2300000: Roast:pCylinder1
+    2300002: Roast:pCylinder2
+    2300004: Roast:pCylinder3
+    2300006: Roast:pCylinder4
+    2300008: Roast:pSphere1
+    2300010: Roast:pSphere10
+    2300012: Roast:pSphere11
+    2300014: Roast:pSphere12
+    2300016: Roast:pSphere13
+    2300018: Roast:pSphere14
+    2300020: Roast:pSphere15
+    2300022: Roast:pSphere16
+    2300024: Roast:pSphere17
+    2300026: Roast:pSphere18
+    2300028: Roast:pSphere19
+    2300030: Roast:pSphere2
+    2300032: Roast:pSphere3
+    2300034: Roast:pSphere4
+    2300036: Roast:pSphere6
+    2300038: Roast:pSphere7
+    2300040: Roast:pSphere8
+    2300042: Roast:pSphere9
+    3300000: Roast:pCylinder1
+    3300002: Roast:pCylinder2
+    3300004: Roast:pCylinder3
+    3300006: Roast:pCylinder4
+    3300008: Roast:pSphere1
+    3300010: Roast:pSphere10
+    3300012: Roast:pSphere11
+    3300014: Roast:pSphere12
+    3300016: Roast:pSphere13
+    3300018: Roast:pSphere14
+    3300020: Roast:pSphere15
+    3300022: Roast:pSphere16
+    3300024: Roast:pSphere17
+    3300026: Roast:pSphere18
+    3300028: Roast:pSphere19
+    3300030: Roast:pSphere2
+    3300032: Roast:pSphere3
+    3300034: Roast:pSphere4
+    3300036: Roast:pSphere6
+    3300038: Roast:pSphere7
+    3300040: Roast:pSphere8
+    3300042: Roast:pSphere9
+    4300000: Roast:pCylinder1
+    4300002: Roast:pCylinder2
+    4300004: Roast:pSphere1
+    4300006: Roast:pSphere2
+    4300008: Roast:pSphere3
+    4300010: Roast:pSphere4
+    4300012: Roast:pSphere6
+    4300014: Roast:pSphere7
+    4300016: Roast:pSphere8
+    4300018: Roast:pSphere9
+    4300020: Roast:pCylinder3
+    4300022: Roast:pSphere10
+    4300024: Roast:pSphere11
+    4300026: Roast:pSphere12
+    4300028: Roast:pSphere13
+    4300030: Roast:pCylinder4
+    4300032: Roast:pSphere14
+    4300034: Roast:pSphere15
+    4300036: Roast:pSphere16
+    4300038: Roast:pSphere17
+    4300040: Roast:pSphere18
+    4300042: Roast:pSphere19
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
